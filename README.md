@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm taking a degree in Computer Science at the Federal Institute of Education, Science and Technology of São Paulo (IFSP - Brazil).<br><br>I graduated high school as an IT Technician where I discovered my interests for coding and data administration.<br><br>My favorite  programming language is Java and I'm yet to learn Python.<br><br>For more info you can reach me at: vinicius.deramio@gmail.com</p>
+<p align="left">I'm taking a degree in Computer Science at the Federal Institute of Education, Science and Technology of São Paulo (IFSP - Brazil).<br><br>I graduated high school as an IT Technician where I discovered my interests for coding and data administration.<br><br>My favorite  programming language is Java and I'm yet to learn Python.<br><br>For more info you can reach me at: vinicius.deramio@gmail.com.</p>
 
 ###
 
